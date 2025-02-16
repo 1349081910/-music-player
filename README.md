@@ -96,7 +96,7 @@ Response: {
 感谢您的支持！您可以选择以下任意一种方式进行捐赠：
 
 ## 微信捐赠
-![微信捐赠]([这里填入你的微信捐赠二维码图片链接](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/c0679bb11e9c24dbdc5e57298b5a015ba48ab8b0caf8a1d3cc7d9bcb5829e352867c1ccbca01eb90025e998fc3469dff?pictype=scale&from=30013&version=3.3.3.3&fname=tmp_F5C0617271635B268801E7BA66B25F6C.png&size=750))
+![微信捐赠]([这里填入你的微信捐赠二维码图片链接](https://s21.ax1x.com/2025/02/17/pEKvdne.jpg))
 
 ## 支付宝捐赠
 ![支付宝捐赠]([这里填入你的支付宝捐赠二维码图片链接](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/8e02bc4724d4799b284dde1801b773c5719e36da44cb8cf27d3012c822edc8f15117804df0edc68c7dd01dfed1ef319b?pictype=scale&from=30013&version=3.3.3.3&fname=tmp_E8AC911468F98DBC6588B8BAE4736EC5.jpg&size=750))
